@@ -13,7 +13,7 @@ This is my personal portfolio website created as part of the Full Stack Web Deve
 - JavaScript (Internal)
 
 ## Live Website
-https://yourusername.github.io/FUTURE_FS_01/
+https://kulukuricharishma.github.io/FUTURE_FS_01/
 
 ## Author
 Charishma
